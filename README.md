@@ -9,7 +9,7 @@
   	┃   ┣━━ Future income prediction using ML                           
   	┃   ┣━━ Invasive species sentiment analysis using NLP methods for conservation  
     ┗━━ ®️ Proyects  
-     ┃  ┣━━ Frugivore corporal condition model
+     ┃  ┣━━ Frugivore corporal condition model  
      ┃  ┣━━ Phytogeography map using leaflet  
      ┃ ┗━━ Bootstraps  
      ┗━━ Other Proyects
