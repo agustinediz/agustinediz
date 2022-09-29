@@ -7,9 +7,10 @@
     ┣━━ 🐍 Proyects                                                                                           
   	┃   ┣━━ Turdus sex assignation using ML                          
   	┃   ┣━━ Future income prediction using ML                           
-  	┃   ┣━━ Invasive species sentiment analysis using NLP methods for conservation  
+  	┃   ┣━━ Yelp sentiment analysis using NLP methods for inprovements  
+    ┃   ┣━━ Development of a recommendation system using a telco database   
     ┗━━ ®️ Proyects  
-     ┃  ┣━━ Frugivore corporal condition model  
+     ┃  ┣━━ Frugivore corporal condition statistical modelling  
      ┃  ┣━━ Phytogeography map using leaflet  
      ┃ ┗━━ Bootstraps  
      ┗━━ Other Proyects
